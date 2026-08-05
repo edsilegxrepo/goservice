@@ -4,11 +4,6 @@ All notable changes to `goservice` are documented in this file.
 
 Format: `vX.Y.Z - YYYY-MM-DD`, with changes grouped under a dated section per revision.
 
-> **Note:** This project has no git history (the working tree is not a git
-> repository), so `v0.0.0` is a reconstructed baseline describing the current
-> state of the codebase as of the date below. Future revisions should be
-> appended as new dated sections.
-
 ## [v0.0.0] - 2026-08-04
 
 ### Added
